@@ -43,7 +43,7 @@ The **Event Calendar Application** allows users to create, manage, and visually 
 
 You can try out the Age Calculator by visiting the live demo link below:
 
-- [Live Demo](https://cards-manager-app-makedonkat.netlify.app/)
+- [Live Demo](https://events-calendar-makedonkat.netlify.app/)
 
 ---
 
