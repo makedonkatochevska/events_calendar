@@ -63,8 +63,9 @@ To run these exercises locally, follow these steps:
 
 1. Clone the repository:
 
-bash
-git clone https://github.com/makedonkatochevska/events_calendar.git .
+```bash
+ git clone https://github.com/makedonkatochevska/events_calendar.git .
+```
 
 2. Open the index.html file into the browser of choice.
 
